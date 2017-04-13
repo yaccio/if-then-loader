@@ -1,0 +1,12 @@
+{
+  "name": "if-then-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for if-then",
+  "main": "index.js",
+  "repository": "git@github.com:yaccio/if-then-loader.git",
+  "author": "Martin Bech <martin@yacc.io>, Lasse Borly <lasse@yacc.io>",
+  "license": "MIT",
+  "dependencies": {
+      "if-then": "^0.0.1"
+  }
+}
